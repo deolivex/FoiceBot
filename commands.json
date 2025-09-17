@@ -1,0 +1,22 @@
+{
+  "website": {
+    "response": "/me Web @ deolive.pt/strm",
+    "enabled": true
+  },
+  "steam": {
+    "response": "/me Steam @ steamcommunity.com/id/elv3x",
+    "enabled": true
+  },
+  "faceit": {
+    "response": "/me Faceit @ faceit.com/en/players/elV3x",
+    "enabled": true
+  },
+  "webtejo": {
+    "response": "/me WebTejo @ WebTejo.pt/?ref=Vex",
+    "enabled": true
+  },
+  "discord": {
+    "response": "/me Discord @ discord.gg/nadeNoki",
+    "enabled": false
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "ola": {
+    "response": "Como é {user}?! HeyGuys",
+    "enabled": true
+  },
+  "oi": {
+    "response": "Como é {user}?! HeyGuys",
+    "enabled": true
+  },
+  "boas": {
+    "response": "Como é {user}?! HeyGuys",
+    "enabled": true
+  },
+  "Kappa": {
+    "response": "Kappa Kappa Kappa Kappa",
+    "enabled": true
+  },
+  "WebTejo": {
+    "response": "Ouvi falar em WebTejo? PogChamp",
+    "enabled": true
+  }
+}
