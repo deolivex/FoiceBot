@@ -1,5 +1,7 @@
 # FoiceBot
 
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 FoiceBot é um bot fixe para Twitch, desenvolvido em Node.js, que responde a comandos e reage às mensagens do chat. 
 Bora configurar e pôr a funcionar? 😎
 
@@ -30,7 +32,6 @@ Cria um ficheiro `.env` na raiz do projeto e adiciona:
 BOT_USERNAME=OUsernameDoTeuBot
 BOT_OAUTH=oauth:teu_oauth_token
 ```
-> **Nota:** Nunca partilhes este ficheiro com ninguém. 😉
 
 ---
 
@@ -99,5 +100,3 @@ Queres ajudar? Abre uma issue ou envia um pull request. Toda a ajuda é bem-vind
 Este projeto está sob a [MIT License](LICENSE).
 
 ---
-
-**Feito com ❤️ e ☕ por [deOliveira](https://github.com/deolivex)**
