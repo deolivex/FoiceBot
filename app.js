@@ -1,4 +1,4 @@
-require('dotenv').config();
+require('dotenv').config({ silent: true });
 const tmi = require('tmi.js');
 const fs = require('fs');
 const fetch = require('node-fetch');
